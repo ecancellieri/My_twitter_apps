@@ -1,3 +1,4 @@
+This is a code to generate what I call a "semantic group"
 
 The aim is to start from one word and to find the word most correlated with that one. Then to download the word mostly correlated with the second one, then the words mostly correlated with the third one, etc, etc. Until no new words are found.
 
