@@ -17,4 +17,4 @@ After the group is created it is possible to plot it in a directional graph:
 
 ![](https://github.com/ecancellieri/My_twitter_apps/blob/master/creating_semantic_group/test_0.1.gv.png)
 <p>
-*Directional graph for: furniture, homedecor, interiordesign. The graph is based on the data downloaded on the 15th of October 2019*
+Directional graph for: furniture, homedecor, interiordesign. The graph is based on the data downloaded on the 15th of October 2019
