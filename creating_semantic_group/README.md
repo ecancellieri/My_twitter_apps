@@ -1,4 +1,4 @@
-This is the code for the collaboration with "AI for social good"
+#This is the code for the collaboration with "AI for social good"
 
 One part of the code generates what I call a "semantic group"
 
