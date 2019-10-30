@@ -15,15 +15,23 @@ For example:
 Repeat until no new words are added to the set.
 
 **The second part of the code analyses the downloaded tweets**
+<p>
 The first analysis consists in creating a directional graph of the semantic group:
 
 ![](https://github.com/ecancellieri/My_twitter_apps/blob/master/creating_semantic_group/graph_0.1.png)
 <p>
-Directional graph for: furniture, homedecor, interiordesign. The graph is based on the data downloaded on the 15th of October 2019
+Graph for "semantic group" = furniture, homedecor, interiordesign. The graph is based on the data downloaded on the 15th of October 2019
+
+![](https://github.com/ecancellieri/My_twitter_apps/blob/master/creating_semantic_group/graph_0.2.png)
+<p>
+Graph for highly used hashtags. The graph is based on the data downloaded on the 15th of October 2019
+
+![](https://github.com/ecancellieri/My_twitter_apps/blob/master/creating_semantic_group/graph_0.2.png)
+<p>
+Cloud of most used words. The graph is based on the data downloaded on the 15th of October 2019
+
 
 **TO DO LIST:**
-- Creating the graph of the highest ranking hashtags in the downloaded set.
-- Creating the cloud of words.
 - Study the graph and the cloud of words as a function of time
 - Study of the links present in the downloaded tweets. Which are the most linked domains? Which is the information present in the linked pages?
 - Study the "most used" expressions in the downloaded set (I.e. not just the words but also the pairs or longer groups)
