@@ -17,7 +17,7 @@ Repeat until no new words are added to the set.
 **The second part of the code analyses the downloaded tweets**
 The first analysis consists in creating a directional graph of the semantic group:
 
-![](https://github.com/ecancellieri/My_twitter_apps/blob/master/creating_semantic_group/test_0.1.gv.png)
+![](https://github.com/ecancellieri/My_twitter_apps/blob/master/creating_semantic_group/graph_0.1.png)
 <p>
 Directional graph for: furniture, homedecor, interiordesign. The graph is based on the data downloaded on the 15th of October 2019
 
