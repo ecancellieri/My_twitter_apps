@@ -26,7 +26,7 @@ Graph for "semantic group" = furniture, homedecor, interiordesign. The graph is 
 <p>
 Graph for highly used hashtags. The graph is based on the data downloaded on the 15th of October 2019
 
-![](https://github.com/ecancellieri/My_twitter_apps/blob/master/creating_semantic_group/graph_0.2.png)
+![](https://github.com/ecancellieri/My_twitter_apps/blob/master/creating_semantic_group/cloud_of_words_0.1.png)
 <p>
 Cloud of most used words. The graph is based on the data downloaded on the 15th of October 2019
 
