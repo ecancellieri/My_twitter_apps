@@ -18,11 +18,11 @@ Repeat until no new words are added to the set.
 <p>
 The first analysis consists in creating a directional graph of the semantic group:
 
-![](https://github.com/ecancellieri/My_twitter_apps/blob/master/creating_semantic_group/graph_0.1.png | width=100)
+![](https://github.com/ecancellieri/My_twitter_apps/blob/master/creating_semantic_group/graph_0.1.png){:height="50%" width="50%"}
 <p>
 Graph for "semantic group" = furniture, homedecor, interiordesign. The graph is based on the data downloaded on the 15th of October 2019
 
-![](https://github.com/ecancellieri/My_twitter_apps/blob/master/creating_semantic_group/graph_0.2.png | width=100)
+![](https://github.com/ecancellieri/My_twitter_apps/blob/master/creating_semantic_group/graph_0.2.png){:height="50%" width="50%"}
 <p>
 Graph for highly used hashtags. The graph is based on the data downloaded on the 15th of October 2019
 
