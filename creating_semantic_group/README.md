@@ -32,7 +32,7 @@ Cloud of most used words. The graph is based on the data downloaded on the 15th 
 <p>
 <img src="https://github.com/ecancellieri/My_twitter_apps/blob/master/creating_semantic_group/hashtags_frequency_0.1.png" width="600">
 <p>
-Usage of hashtags as a function of time. The graph is based on the data downloaded on the 15th of October 2019
+Use of hashtags as a function of time. The graph is based on the data downloaded on the 15th of October 2019
 
 
 
